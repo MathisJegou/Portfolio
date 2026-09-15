@@ -163,37 +163,7 @@ body{
   color: var(--text);
   font-size: 0.95rem;
 }
-/* ABOUT */
-.about-left > p {
-  color: var(--text);
-}
 
-/* Internship block */
-.about-cta {
-  margin-top: 1.8rem;
-}
-
-.about-cta-title {
-  margin-bottom: 0.45rem;
-  color: var(--muted);
-  font-size: 0.95rem;
-}
-
-.about-cta-main {
-  margin-bottom: 0.25rem;
-  color: var(--text);
-  font-weight: 600;
-}
-
-.about-cta-focus {
-  margin-bottom: 0.25rem;
-  color: var(--text);
-}
-
-.about-cta-visa {
-  color: var(--muted);
-  font-size: 0.95rem;
-}
 /* PROJECTS */
 .project-grid{
   display:grid;
